@@ -1,0 +1,32 @@
+2025/02/11 12:22:08.551692 Created session
+2025/02/11 12:22:09.001108 Connecting to: ec2-54-179-89-31.ap-southeast-1.compute.amazonaws.com:5002
+2025/02/11 12:22:09.082635 Sending logon request
+2025/02/11 12:22:09.140720 Received logon response
+2025/02/11 12:25:59.904370 Created session
+2025/02/11 12:26:00.001302 Connecting to: ec2-54-179-89-31.ap-southeast-1.compute.amazonaws.com:5002
+2025/02/11 12:26:00.084384 Sending logon request
+2025/02/11 12:26:00.148129 Received logon response
+2025/02/11 12:26:43.078203 Created session
+2025/02/11 12:26:44.001205 Connecting to: ec2-54-179-89-31.ap-southeast-1.compute.amazonaws.com:5002
+2025/02/11 12:26:44.123423 Sending logon request
+2025/02/11 12:26:44.179567 Received logon response
+2025/02/11 12:40:28.417366 Created session
+2025/02/11 12:40:29.001137 Connecting to: ec2-54-179-89-31.ap-southeast-1.compute.amazonaws.com:5002
+2025/02/11 12:40:29.074905 Sending logon request
+2025/02/11 12:40:29.149219 Received logon response
+2025/02/11 12:41:41.563134 Created session
+2025/02/11 12:41:42.001167 Connecting to: ec2-54-179-89-31.ap-southeast-1.compute.amazonaws.com:5002
+2025/02/11 12:41:42.056283 Sending logon request
+2025/02/11 12:41:42.157435 Received logon response
+2025/02/11 13:09:16.816006 Created session
+2025/02/11 13:09:17.001092 Connecting to: ec2-54-179-89-31.ap-southeast-1.compute.amazonaws.com:5002
+2025/02/11 13:09:17.077667 Sending logon request
+2025/02/11 13:09:17.136400 Received logon response
+2025/02/11 15:42:46.970856 Created session
+2025/02/11 15:42:47.001099 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/11 15:42:47.114564 Sending logon request
+2025/02/11 15:42:47.178776 Received logon response
+2025/02/11 15:42:57.449465 Created session
+2025/02/11 15:42:58.001144 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/11 15:42:58.124912 Sending logon request
+2025/02/11 15:42:58.202417 Received logon response

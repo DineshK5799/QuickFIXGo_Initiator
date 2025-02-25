@@ -1,0 +1,191 @@
+2025/02/11 12:03:01.689734 Created session
+2025/02/11 12:03:02.001212 Connecting to: 127.0.0.1:5002
+2025/02/11 12:03:02.002877 Sending logon request
+2025/02/11 12:03:02.107244 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:03:02.10656=TWCL58=Invalid Credentials10=046 while waiting for Logon
+2025/02/11 12:03:02.107285 Disconnected
+2025/02/11 12:03:02.107325 Reconnecting in 30s
+2025/02/11 12:03:32.108495 Connecting to: 127.0.0.1:5002
+2025/02/11 12:03:32.109499 Sending logon request
+2025/02/11 12:03:32.233164 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:03:32.23156=TWCL58=Invalid Credentials10=048 while waiting for Logon
+2025/02/11 12:03:32.233232 Disconnected
+2025/02/11 12:03:32.233698 Reconnecting in 30s
+2025/02/11 12:04:02.234860 Connecting to: 127.0.0.1:5002
+2025/02/11 12:04:02.235834 Sending logon request
+2025/02/11 12:04:02.342363 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:04:02.34056=TWCL58=Invalid Credentials10=047 while waiting for Logon
+2025/02/11 12:04:02.342506 Disconnected
+2025/02/11 12:04:02.342587 Reconnecting in 30s
+2025/02/11 12:04:32.343963 Connecting to: 127.0.0.1:5002
+2025/02/11 12:04:32.344941 Sending logon request
+2025/02/11 12:04:32.528911 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:04:32.52756=TWCL58=Invalid Credentials10=057 while waiting for Logon
+2025/02/11 12:04:32.528993 Disconnected
+2025/02/11 12:04:32.529108 Reconnecting in 30s
+2025/02/11 12:05:02.530330 Connecting to: 127.0.0.1:5002
+2025/02/11 12:05:02.531085 Sending logon request
+2025/02/11 12:05:02.637233 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:05:02.63656=TWCL58=Invalid Credentials10=056 while waiting for Logon
+2025/02/11 12:05:02.637289 Disconnected
+2025/02/11 12:05:02.637391 Reconnecting in 30s
+2025/02/11 12:05:32.638236 Connecting to: 127.0.0.1:5002
+2025/02/11 12:05:32.639210 Sending logon request
+2025/02/11 12:05:32.816987 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:05:32.81656=TWCL58=Invalid Credentials10=059 while waiting for Logon
+2025/02/11 12:05:32.817043 Disconnected
+2025/02/11 12:05:32.817130 Reconnecting in 30s
+2025/02/11 12:06:02.824638 Connecting to: 127.0.0.1:5002
+2025/02/11 12:06:02.825932 Sending logon request
+2025/02/11 12:06:02.929208 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:06:02.92856=TWCL58=Invalid Credentials10=061 while waiting for Logon
+2025/02/11 12:06:02.929258 Disconnected
+2025/02/11 12:06:02.929358 Reconnecting in 30s
+2025/02/11 12:06:32.940101 Connecting to: 127.0.0.1:5002
+2025/02/11 12:06:32.941095 Sending logon request
+2025/02/11 12:06:33.126563 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:06:33.12556=TWCL58=Invalid Credentials10=054 while waiting for Logon
+2025/02/11 12:06:33.126679 Disconnected
+2025/02/11 12:06:33.126803 Reconnecting in 30s
+2025/02/11 12:07:03.128707 Connecting to: 127.0.0.1:5002
+2025/02/11 12:07:03.129611 Sending logon request
+2025/02/11 12:07:03.238787 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:07:03.23756=TWCL58=Invalid Credentials10=056 while waiting for Logon
+2025/02/11 12:07:03.238844 Disconnected
+2025/02/11 12:07:03.238958 Reconnecting in 30s
+2025/02/11 12:07:33.240391 Connecting to: 127.0.0.1:5002
+2025/02/11 12:07:33.241317 Sending logon request
+2025/02/11 12:07:33.415579 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:07:33.41456=TWCL58=Invalid Credentials10=056 while waiting for Logon
+2025/02/11 12:07:33.415634 Disconnected
+2025/02/11 12:07:33.415740 Reconnecting in 30s
+2025/02/11 12:08:03.417005 Connecting to: 127.0.0.1:5002
+2025/02/11 12:08:03.417917 Sending logon request
+2025/02/11 12:08:03.526511 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:08:03.52556=TWCL58=Invalid Credentials10=057 while waiting for Logon
+2025/02/11 12:08:03.526607 Disconnected
+2025/02/11 12:08:03.526736 Reconnecting in 30s
+2025/02/11 12:08:33.528069 Connecting to: 127.0.0.1:5002
+2025/02/11 12:08:33.529249 Sending logon request
+2025/02/11 12:08:33.706398 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:08:33.70556=TWCL58=Invalid Credentials10=060 while waiting for Logon
+2025/02/11 12:08:33.706452 Disconnected
+2025/02/11 12:08:33.706570 Reconnecting in 30s
+2025/02/11 12:09:03.707861 Connecting to: 127.0.0.1:5002
+2025/02/11 12:09:03.708815 Sending logon request
+2025/02/11 12:09:03.811248 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:09:03.81056=TWCL58=Invalid Credentials10=055 while waiting for Logon
+2025/02/11 12:09:03.811266 Disconnected
+2025/02/11 12:09:03.811306 Reconnecting in 30s
+2025/02/11 12:09:33.812366 Connecting to: 127.0.0.1:5002
+2025/02/11 12:09:33.813646 Sending logon request
+2025/02/11 12:09:34.005850 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:09:34.00456=TWCL58=Invalid Credentials10=054 while waiting for Logon
+2025/02/11 12:09:34.005917 Disconnected
+2025/02/11 12:09:34.005996 Reconnecting in 30s
+2025/02/11 12:10:04.007427 Connecting to: 127.0.0.1:5002
+2025/02/11 12:10:04.008732 Sending logon request
+2025/02/11 12:10:04.112321 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:10:04.11156=TWCL58=Invalid Credentials10=042 while waiting for Logon
+2025/02/11 12:10:04.112355 Disconnected
+2025/02/11 12:10:04.112397 Reconnecting in 30s
+2025/02/11 12:10:34.113684 Connecting to: 127.0.0.1:5002
+2025/02/11 12:10:34.114457 Sending logon request
+2025/02/11 12:10:34.293244 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:10:34.29156=TWCL58=Invalid Credentials10=054 while waiting for Logon
+2025/02/11 12:10:34.293310 Disconnected
+2025/02/11 12:10:34.293418 Reconnecting in 30s
+2025/02/11 12:11:04.294669 Connecting to: 127.0.0.1:5002
+2025/02/11 12:11:04.295492 Sending logon request
+2025/02/11 12:11:04.404221 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:11:04.40256=TWCL58=Invalid Credentials10=046 while waiting for Logon
+2025/02/11 12:11:04.404323 Disconnected
+2025/02/11 12:11:04.404445 Reconnecting in 30s
+2025/02/11 12:11:34.405698 Connecting to: 127.0.0.1:5002
+2025/02/11 12:11:34.406318 Sending logon request
+2025/02/11 12:11:34.576700 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:11:34.57556=TWCL58=Invalid Credentials10=060 while waiting for Logon
+2025/02/11 12:11:34.576746 Disconnected
+2025/02/11 12:11:34.576844 Reconnecting in 30s
+2025/02/11 12:12:04.578181 Connecting to: 127.0.0.1:5002
+2025/02/11 12:12:04.579165 Sending logon request
+2025/02/11 12:12:04.685304 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:12:04.68456=TWCL58=Invalid Credentials10=059 while waiting for Logon
+2025/02/11 12:12:04.685368 Disconnected
+2025/02/11 12:12:04.685484 Reconnecting in 30s
+2025/02/11 12:12:34.686756 Connecting to: 127.0.0.1:5002
+2025/02/11 12:12:34.687285 Sending logon request
+2025/02/11 12:12:34.868594 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:12:34.86756=TWCL58=Invalid Credentials10=065 while waiting for Logon
+2025/02/11 12:12:34.868701 Disconnected
+2025/02/11 12:12:34.868828 Reconnecting in 30s
+2025/02/11 12:13:04.870364 Connecting to: 127.0.0.1:5002
+2025/02/11 12:13:04.872409 Sending logon request
+2025/02/11 12:13:04.975687 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:13:04.97556=TWCL58=Invalid Credentials10=063 while waiting for Logon
+2025/02/11 12:13:04.975717 Disconnected
+2025/02/11 12:13:04.975773 Reconnecting in 30s
+2025/02/11 12:13:34.977154 Connecting to: 127.0.0.1:5002
+2025/02/11 12:13:34.978118 Sending logon request
+2025/02/11 12:13:35.159060 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:13:35.15856=TWCL58=Invalid Credentials10=060 while waiting for Logon
+2025/02/11 12:13:35.159120 Disconnected
+2025/02/11 12:13:35.159174 Reconnecting in 30s
+2025/02/11 12:14:05.160475 Connecting to: 127.0.0.1:5002
+2025/02/11 12:14:05.162550 Sending logon request
+2025/02/11 12:14:05.271811 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:14:05.27056=TWCL58=Invalid Credentials10=053 while waiting for Logon
+2025/02/11 12:14:05.271855 Disconnected
+2025/02/11 12:14:05.271955 Reconnecting in 30s
+2025/02/11 12:14:35.273260 Connecting to: 127.0.0.1:5002
+2025/02/11 12:14:35.274399 Sending logon request
+2025/02/11 12:14:35.450897 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:14:35.44956=TWCL58=Invalid Credentials10=064 while waiting for Logon
+2025/02/11 12:14:35.450951 Disconnected
+2025/02/11 12:14:35.451057 Reconnecting in 30s
+2025/02/11 12:15:05.452392 Connecting to: 127.0.0.1:5002
+2025/02/11 12:15:05.454285 Sending logon request
+2025/02/11 12:15:05.557585 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:15:05.55656=TWCL58=Invalid Credentials10=061 while waiting for Logon
+2025/02/11 12:15:05.557656 Disconnected
+2025/02/11 12:15:05.557748 Reconnecting in 30s
+2025/02/11 12:15:35.558987 Connecting to: 127.0.0.1:5002
+2025/02/11 12:15:35.560655 Sending logon request
+2025/02/11 12:15:35.737196 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:15:35.73656=TWCL58=Invalid Credentials10=064 while waiting for Logon
+2025/02/11 12:15:35.737237 Disconnected
+2025/02/11 12:15:35.737334 Reconnecting in 30s
+2025/02/11 12:16:05.738663 Connecting to: 127.0.0.1:5002
+2025/02/11 12:16:05.740709 Sending logon request
+2025/02/11 12:16:05.848117 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:16:05.84656=TWCL58=Invalid Credentials10=064 while waiting for Logon
+2025/02/11 12:16:05.848201 Disconnected
+2025/02/11 12:16:05.848329 Reconnecting in 30s
+2025/02/11 12:16:35.849563 Connecting to: 127.0.0.1:5002
+2025/02/11 12:16:35.850465 Sending logon request
+2025/02/11 12:16:36.037008 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:16:36.03556=TWCL58=Invalid Credentials10=058 while waiting for Logon
+2025/02/11 12:16:36.037063 Disconnected
+2025/02/11 12:16:36.037176 Reconnecting in 30s
+2025/02/11 12:17:06.038447 Connecting to: 127.0.0.1:5002
+2025/02/11 12:17:06.040317 Sending logon request
+2025/02/11 12:17:06.142421 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:17:06.14156=TWCL58=Invalid Credentials10=054 while waiting for Logon
+2025/02/11 12:17:06.142480 Disconnected
+2025/02/11 12:17:06.142594 Reconnecting in 30s
+2025/02/11 12:17:36.143942 Connecting to: 127.0.0.1:5002
+2025/02/11 12:17:36.145935 Sending logon request
+2025/02/11 12:17:36.316277 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:17:36.31556=TWCL58=Invalid Credentials10=060 while waiting for Logon
+2025/02/11 12:17:36.316329 Disconnected
+2025/02/11 12:17:36.316415 Reconnecting in 30s
+2025/02/11 12:18:06.317789 Connecting to: 127.0.0.1:5002
+2025/02/11 12:18:06.319463 Sending logon request
+2025/02/11 12:18:06.446993 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:18:06.44556=TWCL58=Invalid Credentials10=062 while waiting for Logon
+2025/02/11 12:18:06.447048 Disconnected
+2025/02/11 12:18:06.447176 Reconnecting in 30s
+2025/02/11 12:18:36.448499 Connecting to: 127.0.0.1:5002
+2025/02/11 12:18:36.450348 Sending logon request
+2025/02/11 12:18:36.616412 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:18:36.61456=TWCL58=Invalid Credentials10=063 while waiting for Logon
+2025/02/11 12:18:36.616499 Disconnected
+2025/02/11 12:18:36.616730 Reconnecting in 30s
+2025/02/11 12:19:06.618252 Connecting to: 127.0.0.1:5002
+2025/02/11 12:19:06.620562 Sending logon request
+2025/02/11 12:19:06.725377 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:19:06.72456=TWCL58=Invalid Credentials10=063 while waiting for Logon
+2025/02/11 12:19:06.725508 Disconnected
+2025/02/11 12:19:06.725633 Reconnecting in 30s
+2025/02/11 12:19:36.727166 Connecting to: 127.0.0.1:5002
+2025/02/11 12:19:36.728387 Sending logon request
+2025/02/11 12:19:36.900604 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:19:36.89956=TWCL58=Invalid Credentials10=079 while waiting for Logon
+2025/02/11 12:19:36.900675 Disconnected
+2025/02/11 12:19:36.900791 Reconnecting in 30s
+2025/02/11 12:20:06.902408 Connecting to: 127.0.0.1:5002
+2025/02/11 12:20:06.904645 Sending logon request
+2025/02/11 12:20:07.036957 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:20:07.03656=TWCL58=Invalid Credentials10=052 while waiting for Logon
+2025/02/11 12:20:07.037035 Disconnected
+2025/02/11 12:20:07.037128 Reconnecting in 30s
+2025/02/11 12:20:37.038508 Connecting to: 127.0.0.1:5002
+2025/02/11 12:20:37.040538 Sending logon request
+2025/02/11 12:20:37.196196 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:20:37.19456=TWCL58=Invalid Credentials10=060 while waiting for Logon
+2025/02/11 12:20:37.196261 Disconnected
+2025/02/11 12:20:37.196388 Reconnecting in 30s
+2025/02/11 12:21:07.194189 Connecting to: 127.0.0.1:5002
+2025/02/11 12:21:07.195603 Sending logon request
+2025/02/11 12:21:07.300372 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:21:07.29956=TWCL58=Invalid Credentials10=064 while waiting for Logon
+2025/02/11 12:21:07.300428 Disconnected
+2025/02/11 12:21:07.300536 Reconnecting in 30s
+2025/02/11 12:21:37.296744 Connecting to: 127.0.0.1:5002
+2025/02/11 12:21:37.297626 Sending logon request
+2025/02/11 12:21:37.483289 Invalid Session State: Received Msg 8=FIX.4.49=7435=534=149=ISLD52=20250211-12:21:37.48256=TWCL58=Invalid Credentials10=061 while waiting for Logon
+2025/02/11 12:21:37.483351 Disconnected
+2025/02/11 12:21:37.483474 Reconnecting in 30s

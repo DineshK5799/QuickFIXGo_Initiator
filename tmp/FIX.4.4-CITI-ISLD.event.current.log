@@ -1,0 +1,14 @@
+2025/02/11 15:12:05.058538 Created session
+2025/02/11 15:12:06.001204 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:12:06.115409 Sending logon request
+2025/02/11 15:12:06.173625 Received logon response
+2025/02/11 15:26:10.882409 Disconnected
+2025/02/11 15:26:10.883583 Reconnecting in 30s
+2025/02/11 15:26:29.911228 Created session
+2025/02/11 15:26:30.001032 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:26:30.574837 Sending logon request
+2025/02/11 15:26:30.638419 Received logon response
+2025/02/11 15:26:59.292362 Created session
+2025/02/11 15:27:00.000321 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:27:00.115429 Sending logon request
+2025/02/11 15:27:00.174679 Received logon response

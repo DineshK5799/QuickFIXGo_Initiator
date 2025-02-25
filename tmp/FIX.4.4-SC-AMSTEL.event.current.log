@@ -1,0 +1,20 @@
+2025/02/17 09:27:12.734167 Created session
+2025/02/17 09:27:13.001522 Connecting to: ec2-18-140-80-91.ap-southeast-1.compute.amazonaws.com:5003
+2025/02/17 09:28:28.047415 Failed to connect: dial tcp 18.140.80.91:5003: connect: operation timed out
+2025/02/17 09:28:28.048565 Reconnecting in 30s
+2025/02/17 09:28:32.676280 Created session
+2025/02/17 09:28:33.001223 Connecting to: ec2-18-140-80-91.ap-southeast-1.compute.amazonaws.com:5003
+2025/02/25 06:54:59.300248 Created session
+2025/02/25 06:55:00.001340 Connecting to: 127.0.0.1:5002
+2025/02/25 06:55:00.002975 Sending logon request
+2025/02/25 06:55:00.115017 Received logon response
+2025/02/25 06:55:36.414881 Created session
+2025/02/25 06:55:37.001229 Connecting to: 127.0.0.1:5002
+2025/02/25 06:55:37.002208 Sending logon request
+2025/02/25 06:55:37.107611 Received logon response
+2025/02/25 06:58:05.025316 Disconnected
+2025/02/25 06:58:05.026531 Reconnecting in 30s
+2025/02/25 06:58:18.166227 Created session
+2025/02/25 06:58:19.001444 Connecting to: 127.0.0.1:5002
+2025/02/25 06:58:19.002479 Sending logon request
+2025/02/25 06:58:19.107751 Received logon response

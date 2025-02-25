@@ -1,0 +1,439 @@
+2025/02/11 11:54:15.231244 Created session
+2025/02/11 11:54:16.001135 Connecting to: 127.0.0.1:5002
+2025/02/11 11:54:16.002440 Sending logon request
+2025/02/11 11:54:16.104629 Received logon response
+2025/02/11 14:34:45.040244 Created session
+2025/02/11 14:34:46.001228 Connecting to: ec2-54-254-90-208.ap-southeast-1.compute.amazonaws.com:5002
+2025/02/11 14:34:46.083462 Sending logon request
+2025/02/11 14:34:46.148366 Received logon response
+2025/02/11 14:40:11.097944 Created session
+2025/02/11 14:40:12.001564 Connecting to: fix.test.amstelsecurities.com:5002
+2025/02/11 14:40:12.441157 Sending logon request
+2025/02/11 14:40:12.501116 Received logon response
+2025/02/11 14:55:09.392002 Created session
+2025/02/11 14:55:10.001166 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/11 14:55:10.500064 Sending logon request
+2025/02/11 14:55:10.567783 Received logon response
+2025/02/11 15:06:41.739755 Created session
+2025/02/11 15:06:42.001192 Connecting to: fix.uat.amstelsecurities.com:5003
+2025/02/11 15:06:42.743967 Failed handshake: tls: failed to verify certificate: x509: certificate is valid for fix.test.amstelsecurities.com, not fix.uat.amstelsecurities.com
+2025/02/11 15:06:42.744014 Reconnecting in 30s
+2025/02/11 15:07:12.745445 Connecting to: fix.uat.amstelsecurities.com:5003
+2025/02/11 15:07:12.863812 Failed handshake: tls: failed to verify certificate: x509: certificate is valid for fix.test.amstelsecurities.com, not fix.uat.amstelsecurities.com
+2025/02/11 15:07:12.863948 Reconnecting in 30s
+2025/02/11 15:07:18.237845 Created session
+2025/02/11 15:07:19.001107 Connecting to: fix.uat.amstelsecurities.com:5003
+2025/02/11 15:07:19.114911 Failed handshake: tls: failed to verify certificate: x509: certificate is valid for fix.test.amstelsecurities.com, not fix.uat.amstelsecurities.com
+2025/02/11 15:07:19.114959 Reconnecting in 30s
+2025/02/11 15:07:50.267720 Created session
+2025/02/11 15:07:51.001648 Connecting to: fix.uat.amstelsecurities.com:5003
+2025/02/11 15:07:51.123611 Failed handshake: tls: failed to verify certificate: x509: certificate is valid for fix.test.amstelsecurities.com, not fix.uat.amstelsecurities.com
+2025/02/11 15:07:51.123657 Reconnecting in 30s
+2025/02/11 15:08:21.125125 Connecting to: fix.uat.amstelsecurities.com:5003
+2025/02/11 15:08:21.290014 Failed handshake: tls: failed to verify certificate: x509: certificate is valid for fix.test.amstelsecurities.com, not fix.uat.amstelsecurities.com
+2025/02/11 15:08:21.290087 Reconnecting in 30s
+2025/02/11 15:08:38.679647 Created session
+2025/02/11 15:08:39.001082 Connecting to: fix.uat.amstelsecurities.com:5003
+2025/02/11 15:08:39.124332 Failed handshake: tls: failed to verify certificate: x509: certificate is valid for fix.test.amstelsecurities.com, not fix.uat.amstelsecurities.com
+2025/02/11 15:08:39.124372 Reconnecting in 30s
+2025/02/11 15:08:58.499164 Created session
+2025/02/11 15:08:59.000874 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:08:59.119283 Sending logon request
+2025/02/11 15:08:59.175141 Disconnected
+2025/02/11 15:08:59.175265 Reconnecting in 30s
+2025/02/11 15:09:29.176580 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:09:29.296880 Sending logon request
+2025/02/11 15:09:29.346370 Disconnected
+2025/02/11 15:09:29.346504 Reconnecting in 30s
+2025/02/11 15:09:59.347172 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:09:59.455366 Sending logon request
+2025/02/11 15:09:59.502992 Disconnected
+2025/02/11 15:09:59.503168 Reconnecting in 30s
+2025/02/11 15:10:18.533288 Created session
+2025/02/11 15:10:19.000907 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:10:19.114279 Sending logon request
+2025/02/11 15:10:19.163443 Disconnected
+2025/02/11 15:10:19.163560 Reconnecting in 30s
+2025/02/11 15:10:49.157732 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:10:49.262797 Sending logon request
+2025/02/11 15:10:49.316569 Disconnected
+2025/02/11 15:10:49.316786 Reconnecting in 30s
+2025/02/11 15:11:19.316476 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:11:19.421955 Sending logon request
+2025/02/11 15:11:19.472860 Disconnected
+2025/02/11 15:11:19.473076 Reconnecting in 30s
+2025/02/11 15:11:49.473303 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:11:49.580639 Sending logon request
+2025/02/11 15:11:49.629139 Disconnected
+2025/02/11 15:11:49.629387 Reconnecting in 30s
+2025/02/11 15:27:32.898618 Created session
+2025/02/11 15:27:33.001128 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:27:33.127773 Sending logon request
+2025/02/11 15:27:33.178187 Disconnected
+2025/02/11 15:27:33.178369 Reconnecting in 30s
+2025/02/11 15:28:03.179191 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:28:03.294321 Sending logon request
+2025/02/11 15:28:03.344318 Disconnected
+2025/02/11 15:28:03.344499 Reconnecting in 30s
+2025/02/11 15:28:33.345501 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:28:33.452430 Sending logon request
+2025/02/11 15:28:33.501524 Disconnected
+2025/02/11 15:28:33.501828 Reconnecting in 30s
+2025/02/11 15:28:54.822139 Created session
+2025/02/11 15:28:55.001189 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:28:55.132233 Sending logon request
+2025/02/11 15:28:55.182675 Disconnected
+2025/02/11 15:28:55.182932 Reconnecting in 30s
+2025/02/11 15:29:25.184075 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:29:25.295746 Sending logon request
+2025/02/11 15:29:25.344932 Disconnected
+2025/02/11 15:29:25.345328 Reconnecting in 30s
+2025/02/11 15:29:38.473490 Created session
+2025/02/11 15:29:39.007127 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:29:39.130752 Sending logon request
+2025/02/11 15:29:39.178885 Disconnected
+2025/02/11 15:29:39.179125 Reconnecting in 30s
+2025/02/11 15:30:09.180194 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:30:09.289098 Sending logon request
+2025/02/11 15:30:09.337115 Disconnected
+2025/02/11 15:30:09.337313 Reconnecting in 30s
+2025/02/11 15:30:39.337614 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:30:39.445025 Sending logon request
+2025/02/11 15:30:39.494312 Disconnected
+2025/02/11 15:30:39.494557 Reconnecting in 30s
+2025/02/11 15:31:06.477874 Created session
+2025/02/11 15:31:07.001142 Connecting to: fix.uat.amstelsecurities.com:5004
+2025/02/11 15:31:07.128206 Sending logon request
+2025/02/11 15:31:07.191743 Received logon response
+2025/02/11 15:34:03.218247 Created session
+2025/02/11 15:34:04.001215 Connecting to: fix.test.amstelsecurities.com:5004
+2025/02/11 15:34:04.423922 Failed handshake: tls: failed to verify certificate: x509: certificate is valid for fix.uat.amstelsecurities.com, not fix.test.amstelsecurities.com
+2025/02/11 15:34:04.423950 Reconnecting in 30s
+2025/02/11 15:34:34.425047 Connecting to: fix.test.amstelsecurities.com:5004
+2025/02/11 15:34:34.546316 Failed handshake: tls: failed to verify certificate: x509: certificate is valid for fix.uat.amstelsecurities.com, not fix.test.amstelsecurities.com
+2025/02/11 15:34:34.546453 Reconnecting in 30s
+2025/02/11 15:35:04.547743 Connecting to: fix.test.amstelsecurities.com:5004
+2025/02/11 15:35:04.663778 Failed handshake: tls: failed to verify certificate: x509: certificate is valid for fix.uat.amstelsecurities.com, not fix.test.amstelsecurities.com
+2025/02/11 15:35:04.663892 Reconnecting in 30s
+2025/02/11 15:35:34.665027 Connecting to: fix.test.amstelsecurities.com:5004
+2025/02/11 15:35:34.779011 Failed handshake: tls: failed to verify certificate: x509: certificate is valid for fix.uat.amstelsecurities.com, not fix.test.amstelsecurities.com
+2025/02/11 15:35:34.779186 Reconnecting in 30s
+2025/02/11 15:36:04.780255 Connecting to: fix.test.amstelsecurities.com:5004
+2025/02/11 15:36:04.892983 Failed handshake: tls: failed to verify certificate: x509: certificate is valid for fix.uat.amstelsecurities.com, not fix.test.amstelsecurities.com
+2025/02/11 15:36:04.893103 Reconnecting in 30s
+2025/02/11 15:36:44.487319 Created session
+2025/02/11 15:36:45.001112 Connecting to: fix.test.amstelsecurities.com:5004
+2025/02/11 15:36:45.127676 Failed handshake: tls: failed to verify certificate: x509: certificate is valid for fix.uat.amstelsecurities.com, not fix.test.amstelsecurities.com
+2025/02/11 15:36:45.127717 Reconnecting in 30s
+2025/02/11 15:37:15.128785 Connecting to: fix.test.amstelsecurities.com:5004
+2025/02/11 15:37:15.252192 Failed handshake: tls: failed to verify certificate: x509: certificate is valid for fix.uat.amstelsecurities.com, not fix.test.amstelsecurities.com
+2025/02/11 15:37:15.252252 Reconnecting in 30s
+2025/02/11 15:38:03.869826 Created session
+2025/02/11 15:38:04.001164 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/11 15:38:04.126536 Sending logon request
+2025/02/11 15:38:04.177731 Disconnected
+2025/02/11 15:38:04.177954 Reconnecting in 30s
+2025/02/11 15:41:52.845521 Created session
+2025/02/11 15:41:53.001234 Connecting to: fix.test.amstelsecurities.com:5002
+2025/02/11 15:42:26.812516 Created session
+2025/02/11 15:42:27.001179 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/11 15:42:27.133591 Sending logon request
+2025/02/11 15:42:27.206190 Disconnected
+2025/02/11 15:42:27.206513 Reconnecting in 30s
+2025/02/13 06:18:45.104586 Created session
+2025/02/13 06:18:46.001115 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 06:18:46.534737 Sending logon request
+2025/02/13 06:18:46.589788 Received logon response
+2025/02/13 06:22:29.053953 Created session
+2025/02/13 06:22:30.001029 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 06:22:30.142734 Sending logon request
+2025/02/13 06:22:30.201278 Received logon response
+2025/02/13 06:25:41.740958 Created session
+2025/02/13 06:25:42.001111 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 06:25:42.161659 Sending logon request
+2025/02/13 06:25:42.223546 Received logon response
+2025/02/13 06:28:08.440047 Created session
+2025/02/13 06:28:09.001129 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 06:28:09.152031 Sending logon request
+2025/02/13 06:28:09.210246 Received logon response
+2025/02/13 06:29:23.708993 Created session
+2025/02/13 06:29:24.001157 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 06:29:24.121323 Sending logon request
+2025/02/13 06:29:24.181867 Received logon response
+2025/02/13 06:29:47.441169 Created session
+2025/02/13 06:29:48.001292 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 06:29:48.124365 Sending logon request
+2025/02/13 06:29:48.181522 Received logon response
+2025/02/13 06:31:24.582557 Created session
+2025/02/13 06:31:25.001277 Connecting to: 127.0.0.1:5003
+2025/02/13 06:31:25.002624 Failed to connect: dial tcp 127.0.0.1:5003: connect: connection refused
+2025/02/13 06:31:25.002749 Reconnecting in 30s
+2025/02/13 06:31:55.002728 Connecting to: 127.0.0.1:5003
+2025/02/13 06:31:55.004461 Failed to connect: dial tcp 127.0.0.1:5003: connect: connection refused
+2025/02/13 06:31:55.004517 Reconnecting in 30s
+2025/02/13 06:32:15.633997 Created session
+2025/02/13 06:32:16.000836 Connecting to: 127.0.0.1:5002
+2025/02/13 06:32:16.001614 Sending logon request
+2025/02/13 06:32:16.111381 Received logon response
+2025/02/13 08:09:51.549925 Created session
+2025/02/13 08:09:52.001084 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:09:52.633222 Sending logon request
+2025/02/13 08:09:52.689448 Received logon response
+2025/02/13 08:26:39.685229 Disconnected
+2025/02/13 08:26:39.686210 Reconnecting in 30s
+2025/02/13 08:27:09.677083 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:27:10.209545 Sending logon request
+2025/02/13 08:27:10.272262 Received logon response
+2025/02/13 08:27:10.273148 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:27:10.273309 Disconnected
+2025/02/13 08:27:10.273699 Reconnecting in 30s
+2025/02/13 08:27:40.273056 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:27:40.382753 Sending logon request
+2025/02/13 08:27:40.439413 Received logon response
+2025/02/13 08:27:40.439494 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:27:40.439624 Disconnected
+2025/02/13 08:27:40.439937 Reconnecting in 30s
+2025/02/13 08:28:10.440613 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:28:10.549430 Sending logon request
+2025/02/13 08:28:10.606704 Received logon response
+2025/02/13 08:28:10.606775 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:28:10.606885 Disconnected
+2025/02/13 08:28:10.607147 Reconnecting in 30s
+2025/02/13 08:28:40.608144 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:28:40.723801 Sending logon request
+2025/02/13 08:28:40.780476 Received logon response
+2025/02/13 08:28:40.780566 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:28:40.780691 Disconnected
+2025/02/13 08:28:40.781025 Reconnecting in 30s
+2025/02/13 08:29:10.781854 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:29:10.889809 Sending logon request
+2025/02/13 08:29:10.946158 Received logon response
+2025/02/13 08:29:10.946241 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:29:10.946357 Disconnected
+2025/02/13 08:29:10.946589 Reconnecting in 30s
+2025/02/13 08:29:40.947466 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:29:41.059395 Sending logon request
+2025/02/13 08:29:41.113592 Received logon response
+2025/02/13 08:29:41.113649 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:29:41.113773 Disconnected
+2025/02/13 08:29:41.114100 Reconnecting in 30s
+2025/02/13 08:30:11.114902 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:30:11.228566 Sending logon request
+2025/02/13 08:30:11.289997 Received logon response
+2025/02/13 08:30:11.290089 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:30:11.290221 Disconnected
+2025/02/13 08:30:11.290588 Reconnecting in 30s
+2025/02/13 08:30:41.291349 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:30:41.402987 Sending logon request
+2025/02/13 08:30:41.460098 Received logon response
+2025/02/13 08:30:41.460173 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:30:41.460316 Disconnected
+2025/02/13 08:30:41.460539 Reconnecting in 30s
+2025/02/13 08:31:11.461468 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:31:11.577680 Sending logon request
+2025/02/13 08:31:11.633349 Received logon response
+2025/02/13 08:31:11.633411 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:31:11.633511 Disconnected
+2025/02/13 08:31:11.633711 Reconnecting in 30s
+2025/02/13 08:31:41.634400 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:31:41.757205 Sending logon request
+2025/02/13 08:31:41.821396 Received logon response
+2025/02/13 08:31:41.821487 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:31:41.821656 Disconnected
+2025/02/13 08:31:41.821901 Reconnecting in 30s
+2025/02/13 08:32:11.822788 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:32:11.946643 Sending logon request
+2025/02/13 08:32:12.005149 Received logon response
+2025/02/13 08:32:12.005209 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:32:12.005324 Disconnected
+2025/02/13 08:32:12.005556 Reconnecting in 30s
+2025/02/13 08:32:42.006489 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:32:42.113862 Sending logon request
+2025/02/13 08:32:42.176659 Received logon response
+2025/02/13 08:32:42.176730 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:32:42.176899 Disconnected
+2025/02/13 08:32:42.177123 Reconnecting in 30s
+2025/02/13 08:33:12.178083 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:33:12.322929 Sending logon request
+2025/02/13 08:33:12.404235 Received logon response
+2025/02/13 08:33:12.404305 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:33:12.404437 Disconnected
+2025/02/13 08:33:12.404659 Reconnecting in 30s
+2025/02/13 08:33:42.405567 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:33:42.509735 Sending logon request
+2025/02/13 08:33:42.565627 Received logon response
+2025/02/13 08:33:42.565651 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:33:42.565700 Disconnected
+2025/02/13 08:33:42.565788 Reconnecting in 30s
+2025/02/13 08:34:12.566319 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:34:12.679644 Sending logon request
+2025/02/13 08:34:12.735774 Received logon response
+2025/02/13 08:34:12.735866 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:34:12.736011 Disconnected
+2025/02/13 08:34:12.736271 Reconnecting in 30s
+2025/02/13 08:34:42.736966 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:34:42.851892 Sending logon request
+2025/02/13 08:34:42.913832 Received logon response
+2025/02/13 08:34:42.913979 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:34:42.914116 Disconnected
+2025/02/13 08:34:42.914408 Reconnecting in 30s
+2025/02/13 08:35:12.915219 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:35:13.022511 Sending logon request
+2025/02/13 08:35:13.078683 Received logon response
+2025/02/13 08:35:13.078770 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:35:13.078932 Disconnected
+2025/02/13 08:35:13.079163 Reconnecting in 30s
+2025/02/13 08:35:43.080107 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:35:43.191935 Sending logon request
+2025/02/13 08:35:43.248129 Received logon response
+2025/02/13 08:35:43.248213 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:35:43.248381 Disconnected
+2025/02/13 08:35:43.248628 Reconnecting in 30s
+2025/02/13 08:36:13.249538 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:36:13.360682 Sending logon request
+2025/02/13 08:36:13.416961 Received logon response
+2025/02/13 08:36:13.417047 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:36:13.419023 Disconnected
+2025/02/13 08:36:13.419970 Reconnecting in 30s
+2025/02/13 08:36:43.420269 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:36:43.550081 Sending logon request
+2025/02/13 08:36:43.608304 Received logon response
+2025/02/13 08:36:43.608385 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:36:43.608517 Disconnected
+2025/02/13 08:36:43.608691 Reconnecting in 30s
+2025/02/13 08:37:13.609166 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:37:13.735035 Sending logon request
+2025/02/13 08:37:13.795017 Received logon response
+2025/02/13 08:37:13.795088 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:37:13.795180 Disconnected
+2025/02/13 08:37:13.795367 Reconnecting in 30s
+2025/02/13 08:37:43.796311 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:37:43.944863 Sending logon request
+2025/02/13 08:37:44.008380 Received logon response
+2025/02/13 08:37:44.008437 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:37:44.008521 Disconnected
+2025/02/13 08:37:44.008703 Reconnecting in 30s
+2025/02/13 08:38:14.010337 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:38:14.138637 Sending logon request
+2025/02/13 08:38:14.256964 Received logon response
+2025/02/13 08:38:14.256994 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:38:14.257103 Disconnected
+2025/02/13 08:38:14.257183 Reconnecting in 30s
+2025/02/13 08:38:44.258259 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:38:44.401071 Sending logon request
+2025/02/13 08:38:44.470240 Received logon response
+2025/02/13 08:38:44.470303 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:38:44.470400 Disconnected
+2025/02/13 08:38:44.470591 Reconnecting in 30s
+2025/02/13 08:39:14.471532 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:39:14.586849 Sending logon request
+2025/02/13 08:39:14.644959 Received logon response
+2025/02/13 08:39:14.645053 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:39:14.645203 Disconnected
+2025/02/13 08:39:14.645520 Reconnecting in 30s
+2025/02/13 08:39:44.646356 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:39:45.249440 Sending logon request
+2025/02/13 08:39:45.308734 Received logon response
+2025/02/13 08:39:45.308817 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:39:45.308995 Disconnected
+2025/02/13 08:39:45.309270 Reconnecting in 30s
+2025/02/13 08:40:15.310185 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:40:15.418880 Sending logon request
+2025/02/13 08:40:15.493682 Received logon response
+2025/02/13 08:40:15.493792 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:40:15.493935 Disconnected
+2025/02/13 08:40:15.494233 Reconnecting in 30s
+2025/02/13 08:40:45.495087 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:40:45.630022 Sending logon request
+2025/02/13 08:40:45.684642 Received logon response
+2025/02/13 08:40:45.684711 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:40:45.684825 Disconnected
+2025/02/13 08:40:45.685063 Reconnecting in 30s
+2025/02/13 08:41:15.685951 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:41:15.791261 Sending logon request
+2025/02/13 08:41:15.859470 Received logon response
+2025/02/13 08:41:15.859552 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:41:15.859691 Disconnected
+2025/02/13 08:41:15.859974 Reconnecting in 30s
+2025/02/13 08:41:45.860838 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:41:45.966109 Sending logon request
+2025/02/13 08:41:46.029536 Received logon response
+2025/02/13 08:41:46.029652 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:41:46.029900 Disconnected
+2025/02/13 08:41:46.030371 Reconnecting in 30s
+2025/02/13 08:42:16.031106 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:42:16.148702 Sending logon request
+2025/02/13 08:42:16.207068 Received logon response
+2025/02/13 08:42:16.207157 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:42:16.207302 Disconnected
+2025/02/13 08:42:16.207672 Reconnecting in 30s
+2025/02/13 08:42:46.208437 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:42:46.325328 Sending logon request
+2025/02/13 08:42:46.381528 Received logon response
+2025/02/13 08:42:46.381597 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:42:46.381710 Disconnected
+2025/02/13 08:42:46.381943 Reconnecting in 30s
+2025/02/13 08:43:16.373536 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:43:16.581854 Sending logon request
+2025/02/13 08:43:16.643764 Received logon response
+2025/02/13 08:43:16.643851 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:43:16.644072 Disconnected
+2025/02/13 08:43:16.644374 Reconnecting in 30s
+2025/02/13 08:43:46.638773 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:43:46.751946 Sending logon request
+2025/02/13 08:43:46.809717 Received logon response
+2025/02/13 08:43:46.809803 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:43:46.809931 Disconnected
+2025/02/13 08:43:46.810228 Reconnecting in 30s
+2025/02/13 08:44:16.810041 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:44:16.949678 Sending logon request
+2025/02/13 08:44:17.222757 Received logon response
+2025/02/13 08:44:17.222828 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:44:17.222943 Disconnected
+2025/02/13 08:44:17.223184 Reconnecting in 30s
+2025/02/13 08:44:47.223866 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:44:47.395626 Sending logon request
+2025/02/13 08:44:47.452735 Received logon response
+2025/02/13 08:44:47.452817 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:44:47.452993 Disconnected
+2025/02/13 08:44:47.453245 Reconnecting in 30s
+2025/02/13 08:45:17.454056 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:45:17.616541 Sending logon request
+2025/02/13 08:45:17.674866 Received logon response
+2025/02/13 08:45:17.674928 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:45:17.675043 Disconnected
+2025/02/13 08:45:17.675251 Reconnecting in 30s
+2025/02/13 08:45:47.676031 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:45:47.828209 Sending logon request
+2025/02/13 08:45:47.906089 Received logon response
+2025/02/13 08:45:47.906169 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:45:47.906320 Disconnected
+2025/02/13 08:45:47.906581 Reconnecting in 30s
+2025/02/13 08:46:17.907309 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:46:18.017645 Sending logon request
+2025/02/13 08:46:18.072866 Received logon response
+2025/02/13 08:46:18.072945 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:46:18.073135 Disconnected
+2025/02/13 08:46:18.073430 Reconnecting in 30s
+2025/02/13 08:46:48.074119 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:46:48.201739 Sending logon request
+2025/02/13 08:46:48.257569 Received logon response
+2025/02/13 08:46:48.257643 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:46:48.257774 Disconnected
+2025/02/13 08:46:48.257961 Reconnecting in 30s
+2025/02/13 08:47:18.258287 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:47:18.365696 Sending logon request
+2025/02/13 08:47:18.429176 Received logon response
+2025/02/13 08:47:18.429261 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:47:18.429434 Disconnected
+2025/02/13 08:47:18.429694 Reconnecting in 30s
+2025/02/13 08:47:48.430445 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/13 08:47:48.539973 Sending logon request
+2025/02/13 08:47:48.608975 Received logon response
+2025/02/13 08:47:48.609156 MsgSeqNum too low, expecting 35 but received 1
+2025/02/13 08:47:48.609284 Disconnected
+2025/02/13 08:47:48.609493 Reconnecting in 30s
+2025/02/17 08:58:00.684125 Created session
+2025/02/17 08:58:01.000749 Connecting to: ec2-18-140-80-91.ap-southeast-1.compute.amazonaws.com:5005
+2025/02/17 08:59:16.714734 Created session
+2025/02/17 08:59:17.001139 Connecting to: ec2-18-140-80-91.ap-southeast-1.compute.amazonaws.com:5005

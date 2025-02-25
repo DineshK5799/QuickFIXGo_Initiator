@@ -1,0 +1,632 @@
+2025/02/20 08:42:21.116857 Created session
+2025/02/20 08:42:22.001065 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/20 08:42:22.515635 Sending logon request
+2025/02/20 08:42:22.572969 Received logon response
+2025/02/20 08:46:51.812276 Created session
+2025/02/20 08:46:52.001233 Connecting to: 52.77.29.226:5003
+2025/02/20 08:46:52.447211 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/20 08:46:52.447268 Reconnecting in 30s
+2025/02/21 06:54:37.723084 Created session
+2025/02/21 06:54:38.001223 Connecting to: 52.77.29.226:5003
+2025/02/21 06:54:38.153135 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 06:54:38.153179 Reconnecting in 30s
+2025/02/21 06:55:08.154307 Connecting to: 52.77.29.226:5003
+2025/02/21 06:55:08.267636 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 06:55:08.267759 Reconnecting in 30s
+2025/02/21 06:55:38.268188 Connecting to: 52.77.29.226:5003
+2025/02/21 06:55:38.408922 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 06:55:38.408957 Reconnecting in 30s
+2025/02/21 06:56:08.409996 Connecting to: 52.77.29.226:5003
+2025/02/21 06:56:08.520858 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 06:56:08.520909 Reconnecting in 30s
+2025/02/21 06:57:07.372256 Created session
+2025/02/21 06:57:08.001155 Connecting to: 52.77.29.226:5003
+2025/02/21 06:57:08.133114 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 06:57:08.133157 Reconnecting in 30s
+2025/02/21 06:57:34.761303 Created session
+2025/02/21 06:57:35.001113 Connecting to: 52.77.29.226:5002
+2025/02/21 06:57:35.052675 Sending logon request
+2025/02/21 06:57:35.112537 Received logon response
+2025/02/21 06:57:55.493798 Created session
+2025/02/21 06:57:56.001278 Connecting to: 52.77.29.226:5002
+2025/02/21 06:58:03.765593 Created session
+2025/02/21 06:58:04.001092 Connecting to: 52.77.29.226:5002
+2025/02/21 06:59:09.276442 Created session
+2025/02/21 06:59:10.001122 Connecting to: 52.77.29.226:5003
+2025/02/21 06:59:10.123874 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 06:59:10.123911 Reconnecting in 30s
+2025/02/21 06:59:40.126140 Connecting to: 52.77.29.226:5003
+2025/02/21 06:59:40.240192 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 06:59:40.240331 Reconnecting in 30s
+2025/02/21 07:00:10.241696 Connecting to: 52.77.29.226:5003
+2025/02/21 07:00:10.357233 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:00:10.357298 Reconnecting in 30s
+2025/02/21 07:00:40.358558 Connecting to: 52.77.29.226:5003
+2025/02/21 07:00:40.481418 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:00:40.481532 Reconnecting in 30s
+2025/02/21 07:01:10.481817 Connecting to: 52.77.29.226:5003
+2025/02/21 07:01:10.598917 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:01:10.599007 Reconnecting in 30s
+2025/02/21 07:01:40.599642 Connecting to: 52.77.29.226:5003
+2025/02/21 07:01:40.715047 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:01:40.715165 Reconnecting in 30s
+2025/02/21 07:02:10.716624 Connecting to: 52.77.29.226:5003
+2025/02/21 07:02:10.832591 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:02:10.832727 Reconnecting in 30s
+2025/02/21 07:02:40.834142 Connecting to: 52.77.29.226:5003
+2025/02/21 07:02:40.958744 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:02:40.958836 Reconnecting in 30s
+2025/02/21 07:03:10.960288 Connecting to: 52.77.29.226:5003
+2025/02/21 07:03:11.069461 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:03:11.069557 Reconnecting in 30s
+2025/02/21 07:03:41.070994 Connecting to: 52.77.29.226:5003
+2025/02/21 07:03:41.182815 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:03:41.182907 Reconnecting in 30s
+2025/02/21 07:04:11.184192 Connecting to: 52.77.29.226:5003
+2025/02/21 07:04:11.292506 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:04:11.292671 Reconnecting in 30s
+2025/02/21 07:04:41.293521 Connecting to: 52.77.29.226:5003
+2025/02/21 07:04:41.406909 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:04:41.406985 Reconnecting in 30s
+2025/02/21 07:05:11.408483 Connecting to: 52.77.29.226:5003
+2025/02/21 07:05:11.519533 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:05:11.519637 Reconnecting in 30s
+2025/02/21 07:05:41.521098 Connecting to: 52.77.29.226:5003
+2025/02/21 07:05:41.639111 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:05:41.639223 Reconnecting in 30s
+2025/02/21 07:06:11.640415 Connecting to: 52.77.29.226:5003
+2025/02/21 07:06:11.756013 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:06:11.756076 Reconnecting in 30s
+2025/02/21 07:06:41.757252 Connecting to: 52.77.29.226:5003
+2025/02/21 07:06:41.874728 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:06:41.874804 Reconnecting in 30s
+2025/02/21 07:07:11.876242 Connecting to: 52.77.29.226:5003
+2025/02/21 07:07:11.997127 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:07:11.997258 Reconnecting in 30s
+2025/02/21 07:07:41.998471 Connecting to: 52.77.29.226:5003
+2025/02/21 07:07:42.116263 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:07:42.116393 Reconnecting in 30s
+2025/02/21 07:08:12.117617 Connecting to: 52.77.29.226:5003
+2025/02/21 07:08:12.242591 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:08:12.242657 Reconnecting in 30s
+2025/02/21 07:08:42.243885 Connecting to: 52.77.29.226:5003
+2025/02/21 07:08:42.358632 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:08:42.358685 Reconnecting in 30s
+2025/02/21 07:09:12.359865 Connecting to: 52.77.29.226:5003
+2025/02/21 07:09:12.506768 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:09:12.506915 Reconnecting in 30s
+2025/02/21 07:09:42.508365 Connecting to: 52.77.29.226:5003
+2025/02/21 07:09:42.632132 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:09:42.632212 Reconnecting in 30s
+2025/02/21 07:10:12.634465 Connecting to: 52.77.29.226:5003
+2025/02/21 07:10:12.801250 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:10:12.801404 Reconnecting in 30s
+2025/02/21 07:10:42.803683 Connecting to: 52.77.29.226:5003
+2025/02/21 07:10:42.925922 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:10:42.926014 Reconnecting in 30s
+2025/02/21 07:19:48.899656 Connecting to: 52.77.29.226:5003
+2025/02/21 07:19:49.004673 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:19:49.004726 Reconnecting in 30s
+2025/02/21 07:20:19.008115 Connecting to: 52.77.29.226:5003
+2025/02/21 07:20:19.135981 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:20:19.136221 Reconnecting in 30s
+2025/02/21 07:20:49.139890 Connecting to: 52.77.29.226:5003
+2025/02/21 07:20:49.270925 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:20:49.271359 Reconnecting in 30s
+2025/02/21 07:21:19.276260 Connecting to: 52.77.29.226:5003
+2025/02/21 07:21:19.407215 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:21:19.407488 Reconnecting in 30s
+2025/02/21 07:21:49.408761 Connecting to: 52.77.29.226:5003
+2025/02/21 07:21:49.525488 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:21:49.525623 Reconnecting in 30s
+2025/02/21 07:22:19.529253 Connecting to: 52.77.29.226:5003
+2025/02/21 07:22:19.655280 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:22:19.655633 Reconnecting in 30s
+2025/02/21 07:22:49.656867 Connecting to: 52.77.29.226:5003
+2025/02/21 07:22:49.771019 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:22:49.771055 Reconnecting in 30s
+2025/02/21 07:23:19.772350 Connecting to: 52.77.29.226:5003
+2025/02/21 07:23:19.884038 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:23:19.884122 Reconnecting in 30s
+2025/02/21 07:23:49.885466 Connecting to: 52.77.29.226:5003
+2025/02/21 07:23:50.005889 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:23:50.005944 Reconnecting in 30s
+2025/02/21 07:24:20.007198 Connecting to: 52.77.29.226:5003
+2025/02/21 07:24:20.120595 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:24:20.120700 Reconnecting in 30s
+2025/02/21 07:24:50.122212 Connecting to: 52.77.29.226:5003
+2025/02/21 07:24:50.233265 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:24:50.233412 Reconnecting in 30s
+2025/02/21 07:25:20.234743 Connecting to: 52.77.29.226:5003
+2025/02/21 07:25:20.350341 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:25:20.350473 Reconnecting in 30s
+2025/02/21 07:25:50.355709 Connecting to: 52.77.29.226:5003
+2025/02/21 07:25:50.482428 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:25:50.482862 Reconnecting in 30s
+2025/02/21 07:26:20.486937 Connecting to: 52.77.29.226:5003
+2025/02/21 07:26:20.624009 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:26:20.624103 Reconnecting in 30s
+2025/02/21 07:35:37.037737 Connecting to: 52.77.29.226:5003
+2025/02/21 07:35:37.161959 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:35:37.162333 Reconnecting in 30s
+2025/02/21 07:36:07.166853 Connecting to: 52.77.29.226:5003
+2025/02/21 07:36:07.280281 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:36:07.280379 Reconnecting in 30s
+2025/02/21 07:36:48.917969 Connecting to: 52.77.29.226:5003
+2025/02/21 07:36:49.364469 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:36:49.364844 Reconnecting in 30s
+2025/02/21 07:54:54.096611 Connecting to: 52.77.29.226:5003
+2025/02/21 07:54:54.202758 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:54:54.202886 Reconnecting in 30s
+2025/02/21 07:55:24.204616 Connecting to: 52.77.29.226:5003
+2025/02/21 07:55:24.322870 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 07:55:24.322934 Reconnecting in 30s
+2025/02/21 08:11:53.141885 Connecting to: 52.77.29.226:5003
+2025/02/21 08:11:53.287832 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:11:53.288237 Reconnecting in 30s
+2025/02/21 08:12:23.283301 Connecting to: 52.77.29.226:5003
+2025/02/21 08:12:23.396306 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:12:23.396382 Reconnecting in 30s
+2025/02/21 08:12:53.397621 Connecting to: 52.77.29.226:5003
+2025/02/21 08:12:53.514604 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:12:53.514698 Reconnecting in 30s
+2025/02/21 08:13:23.516729 Connecting to: 52.77.29.226:5003
+2025/02/21 08:13:23.634525 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:13:23.634599 Reconnecting in 30s
+2025/02/21 08:13:53.636665 Connecting to: 52.77.29.226:5003
+2025/02/21 08:13:53.748733 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:13:53.748820 Reconnecting in 30s
+2025/02/21 08:14:23.750940 Connecting to: 52.77.29.226:5003
+2025/02/21 08:14:23.867964 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:14:23.868025 Reconnecting in 30s
+2025/02/21 08:14:53.870365 Connecting to: 52.77.29.226:5003
+2025/02/21 08:14:53.995423 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:14:53.995536 Reconnecting in 30s
+2025/02/21 08:15:23.999972 Connecting to: 52.77.29.226:5003
+2025/02/21 08:15:24.115153 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:15:24.115638 Reconnecting in 30s
+2025/02/21 08:15:54.117059 Connecting to: 52.77.29.226:5003
+2025/02/21 08:15:54.254138 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:15:54.254209 Reconnecting in 30s
+2025/02/21 08:16:24.255013 Connecting to: 52.77.29.226:5003
+2025/02/21 08:16:24.376009 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:16:24.376093 Reconnecting in 30s
+2025/02/21 08:16:54.377216 Connecting to: 52.77.29.226:5003
+2025/02/21 08:16:54.489048 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:16:54.489154 Reconnecting in 30s
+2025/02/21 08:17:24.490524 Connecting to: 52.77.29.226:5003
+2025/02/21 08:17:24.615272 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:17:24.615372 Reconnecting in 30s
+2025/02/21 08:17:54.616505 Connecting to: 52.77.29.226:5003
+2025/02/21 08:17:54.729415 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:17:54.729505 Reconnecting in 30s
+2025/02/21 08:18:24.730684 Connecting to: 52.77.29.226:5003
+2025/02/21 08:18:24.844427 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:18:24.844561 Reconnecting in 30s
+2025/02/21 08:18:54.845722 Connecting to: 52.77.29.226:5003
+2025/02/21 08:18:54.968965 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:18:54.969030 Reconnecting in 30s
+2025/02/21 08:19:24.970553 Connecting to: 52.77.29.226:5003
+2025/02/21 08:19:25.087039 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:19:25.087218 Reconnecting in 30s
+2025/02/21 08:19:55.088423 Connecting to: 52.77.29.226:5003
+2025/02/21 08:19:55.206214 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:19:55.206289 Reconnecting in 30s
+2025/02/21 08:20:25.208612 Connecting to: 52.77.29.226:5003
+2025/02/21 08:20:25.328556 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:20:25.328690 Reconnecting in 30s
+2025/02/21 08:20:55.330129 Connecting to: 52.77.29.226:5003
+2025/02/21 08:20:55.439110 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:20:55.439154 Reconnecting in 30s
+2025/02/21 08:21:25.440763 Connecting to: 52.77.29.226:5003
+2025/02/21 08:21:25.557698 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:21:25.557835 Reconnecting in 30s
+2025/02/21 08:21:55.559218 Connecting to: 52.77.29.226:5003
+2025/02/21 08:21:55.689617 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:21:55.689663 Reconnecting in 30s
+2025/02/21 08:22:25.691024 Connecting to: 52.77.29.226:5003
+2025/02/21 08:22:25.805446 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:22:25.805553 Reconnecting in 30s
+2025/02/21 08:22:55.806207 Connecting to: 52.77.29.226:5003
+2025/02/21 08:22:55.913014 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:22:55.913040 Reconnecting in 30s
+2025/02/21 08:23:25.914465 Connecting to: 52.77.29.226:5003
+2025/02/21 08:23:26.021388 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:23:26.021461 Reconnecting in 30s
+2025/02/21 08:23:56.022004 Connecting to: 52.77.29.226:5003
+2025/02/21 08:23:56.129836 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:23:56.129879 Reconnecting in 30s
+2025/02/21 08:24:26.143479 Connecting to: 52.77.29.226:5003
+2025/02/21 08:24:26.349929 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:24:26.351131 Reconnecting in 30s
+2025/02/21 08:24:56.343994 Connecting to: 52.77.29.226:5003
+2025/02/21 08:24:56.459257 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:24:56.459305 Reconnecting in 30s
+2025/02/21 08:25:26.461767 Connecting to: 52.77.29.226:5003
+2025/02/21 08:25:26.596915 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:25:26.597216 Reconnecting in 30s
+2025/02/21 08:25:56.598060 Connecting to: 52.77.29.226:5003
+2025/02/21 08:25:56.703342 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:25:56.703380 Reconnecting in 30s
+2025/02/21 08:26:26.704382 Connecting to: 52.77.29.226:5003
+2025/02/21 08:26:26.810374 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:26:26.810410 Reconnecting in 30s
+2025/02/21 08:26:56.811417 Connecting to: 52.77.29.226:5003
+2025/02/21 08:26:56.922631 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:26:56.922709 Reconnecting in 30s
+2025/02/21 08:27:26.923500 Connecting to: 52.77.29.226:5003
+2025/02/21 08:27:27.031578 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:27:27.031620 Reconnecting in 30s
+2025/02/21 08:27:57.032994 Connecting to: 52.77.29.226:5003
+2025/02/21 08:27:57.152477 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:27:57.152533 Reconnecting in 30s
+2025/02/21 08:28:27.155021 Connecting to: 52.77.29.226:5003
+2025/02/21 08:28:27.263920 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:28:27.263960 Reconnecting in 30s
+2025/02/21 08:28:57.264813 Connecting to: 52.77.29.226:5003
+2025/02/21 08:28:57.378189 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:28:57.378221 Reconnecting in 30s
+2025/02/21 08:29:27.382556 Connecting to: 52.77.29.226:5003
+2025/02/21 08:29:27.490797 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:29:27.491049 Reconnecting in 30s
+2025/02/21 08:29:57.494042 Connecting to: 52.77.29.226:5003
+2025/02/21 08:29:57.606332 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:29:57.606419 Reconnecting in 30s
+2025/02/21 08:30:27.609002 Connecting to: 52.77.29.226:5003
+2025/02/21 08:30:27.731868 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:30:27.731969 Reconnecting in 30s
+2025/02/21 08:30:57.732928 Connecting to: 52.77.29.226:5003
+2025/02/21 08:30:57.844984 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:30:57.845075 Reconnecting in 30s
+2025/02/21 08:31:27.846503 Connecting to: 52.77.29.226:5003
+2025/02/21 08:31:27.964968 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:31:27.965348 Reconnecting in 30s
+2025/02/21 08:31:57.966419 Connecting to: 52.77.29.226:5003
+2025/02/21 08:31:58.082076 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:31:58.082199 Reconnecting in 30s
+2025/02/21 08:32:28.084986 Connecting to: 52.77.29.226:5003
+2025/02/21 08:32:28.209266 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:32:28.209635 Reconnecting in 30s
+2025/02/21 08:32:58.218934 Connecting to: 52.77.29.226:5003
+2025/02/21 08:32:58.350442 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:32:58.350534 Reconnecting in 30s
+2025/02/21 08:33:28.351566 Connecting to: 52.77.29.226:5003
+2025/02/21 08:33:28.459246 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:33:28.459367 Reconnecting in 30s
+2025/02/21 08:33:58.460094 Connecting to: 52.77.29.226:5003
+2025/02/21 08:33:58.573053 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:33:58.573163 Reconnecting in 30s
+2025/02/21 08:34:28.574671 Connecting to: 52.77.29.226:5003
+2025/02/21 08:34:28.683368 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:34:28.683400 Reconnecting in 30s
+2025/02/21 08:34:58.684473 Connecting to: 52.77.29.226:5003
+2025/02/21 08:34:58.797490 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:34:58.797647 Reconnecting in 30s
+2025/02/21 08:35:28.798682 Connecting to: 52.77.29.226:5003
+2025/02/21 08:35:28.907417 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:35:28.907563 Reconnecting in 30s
+2025/02/21 08:35:58.908585 Connecting to: 52.77.29.226:5003
+2025/02/21 08:35:59.020425 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:35:59.020565 Reconnecting in 30s
+2025/02/21 08:36:29.021578 Connecting to: 52.77.29.226:5003
+2025/02/21 08:36:29.134181 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:36:29.134273 Reconnecting in 30s
+2025/02/21 08:36:59.135353 Connecting to: 52.77.29.226:5003
+2025/02/21 08:36:59.248550 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:36:59.248647 Reconnecting in 30s
+2025/02/21 08:37:29.249692 Connecting to: 52.77.29.226:5003
+2025/02/21 08:37:29.355389 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:37:29.356428 Reconnecting in 30s
+2025/02/21 08:37:59.357501 Connecting to: 52.77.29.226:5003
+2025/02/21 08:37:59.474828 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:37:59.474950 Reconnecting in 30s
+2025/02/21 08:38:29.476043 Connecting to: 52.77.29.226:5003
+2025/02/21 08:38:29.627688 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:38:29.627748 Reconnecting in 30s
+2025/02/21 08:38:59.628727 Connecting to: 52.77.29.226:5003
+2025/02/21 08:38:59.740385 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:38:59.740513 Reconnecting in 30s
+2025/02/21 08:39:29.741536 Connecting to: 52.77.29.226:5003
+2025/02/21 08:39:29.857308 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:39:29.857424 Reconnecting in 30s
+2025/02/21 08:39:59.850448 Connecting to: 52.77.29.226:5003
+2025/02/21 08:39:59.960135 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:39:59.960210 Reconnecting in 30s
+2025/02/21 08:40:29.956693 Connecting to: 52.77.29.226:5003
+2025/02/21 08:40:30.072503 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:40:30.072754 Reconnecting in 30s
+2025/02/21 08:41:00.073313 Connecting to: 52.77.29.226:5003
+2025/02/21 08:41:00.183915 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:41:00.183972 Reconnecting in 30s
+2025/02/21 08:41:30.189249 Connecting to: 52.77.29.226:5003
+2025/02/21 08:41:30.349540 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:41:30.349770 Reconnecting in 30s
+2025/02/21 08:42:00.352727 Connecting to: 52.77.29.226:5003
+2025/02/21 08:42:00.481517 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:42:00.481575 Reconnecting in 30s
+2025/02/21 08:42:30.482001 Connecting to: 52.77.29.226:5003
+2025/02/21 08:42:30.596641 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:42:30.596706 Reconnecting in 30s
+2025/02/21 08:43:00.597571 Connecting to: 52.77.29.226:5003
+2025/02/21 08:43:00.711910 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:43:00.711944 Reconnecting in 30s
+2025/02/21 08:43:30.712909 Connecting to: 52.77.29.226:5003
+2025/02/21 08:43:30.821870 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:43:30.821934 Reconnecting in 30s
+2025/02/21 08:44:00.824856 Connecting to: 52.77.29.226:5003
+2025/02/21 08:44:00.952314 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:44:00.952372 Reconnecting in 30s
+2025/02/21 08:44:30.953477 Connecting to: 52.77.29.226:5003
+2025/02/21 08:44:31.083761 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:44:31.083831 Reconnecting in 30s
+2025/02/21 08:45:01.088649 Connecting to: 52.77.29.226:5003
+2025/02/21 08:45:01.206121 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:45:01.206494 Reconnecting in 30s
+2025/02/21 08:45:31.207988 Connecting to: 52.77.29.226:5003
+2025/02/21 08:45:31.320981 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:45:31.321031 Reconnecting in 30s
+2025/02/21 08:46:01.322390 Connecting to: 52.77.29.226:5003
+2025/02/21 08:46:01.433902 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:46:01.433947 Reconnecting in 30s
+2025/02/21 08:46:31.435495 Connecting to: 52.77.29.226:5003
+2025/02/21 08:46:31.546987 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:46:31.547107 Reconnecting in 30s
+2025/02/21 08:47:01.548123 Connecting to: 52.77.29.226:5003
+2025/02/21 08:47:02.157550 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:47:02.157610 Reconnecting in 30s
+2025/02/21 08:47:32.158671 Connecting to: 52.77.29.226:5003
+2025/02/21 08:47:32.263873 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:47:32.263907 Reconnecting in 30s
+2025/02/21 08:48:02.264375 Connecting to: 52.77.29.226:5003
+2025/02/21 08:48:02.370397 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:48:02.370437 Reconnecting in 30s
+2025/02/21 08:48:32.371677 Connecting to: 52.77.29.226:5003
+2025/02/21 08:48:32.489612 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:48:32.489731 Reconnecting in 30s
+2025/02/21 08:49:02.490326 Connecting to: 52.77.29.226:5003
+2025/02/21 08:49:02.604934 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:49:02.604988 Reconnecting in 30s
+2025/02/21 08:49:32.605964 Connecting to: 52.77.29.226:5003
+2025/02/21 08:49:32.732039 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:49:32.732123 Reconnecting in 30s
+2025/02/21 08:50:02.733077 Connecting to: 52.77.29.226:5003
+2025/02/21 08:50:02.836134 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:50:02.836179 Reconnecting in 30s
+2025/02/21 08:50:32.837378 Connecting to: 52.77.29.226:5003
+2025/02/21 08:50:32.958912 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:50:32.958983 Reconnecting in 30s
+2025/02/21 08:51:02.959639 Connecting to: 52.77.29.226:5003
+2025/02/21 08:51:03.068445 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:51:03.068484 Reconnecting in 30s
+2025/02/21 08:51:33.069412 Connecting to: 52.77.29.226:5003
+2025/02/21 08:51:33.171196 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:51:33.171246 Reconnecting in 30s
+2025/02/21 08:52:03.172004 Connecting to: 52.77.29.226:5003
+2025/02/21 08:52:03.273277 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:52:03.273315 Reconnecting in 30s
+2025/02/21 08:52:33.273631 Connecting to: 52.77.29.226:5003
+2025/02/21 08:52:33.377029 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:52:33.377055 Reconnecting in 30s
+2025/02/21 08:53:03.386710 Connecting to: 52.77.29.226:5003
+2025/02/21 08:53:03.617832 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:53:03.617934 Reconnecting in 30s
+2025/02/21 08:53:33.619614 Connecting to: 52.77.29.226:5003
+2025/02/21 08:53:33.727884 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:53:33.728072 Reconnecting in 30s
+2025/02/21 08:54:03.729199 Connecting to: 52.77.29.226:5003
+2025/02/21 08:54:03.839087 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:54:03.839130 Reconnecting in 30s
+2025/02/21 08:54:33.840022 Connecting to: 52.77.29.226:5003
+2025/02/21 08:54:33.944074 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:54:33.944106 Reconnecting in 30s
+2025/02/21 08:55:03.944987 Connecting to: 52.77.29.226:5003
+2025/02/21 08:55:04.099770 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:55:04.099948 Reconnecting in 30s
+2025/02/21 08:55:34.105410 Connecting to: 52.77.29.226:5003
+2025/02/21 08:55:34.218709 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:55:34.218858 Reconnecting in 30s
+2025/02/21 08:56:04.228084 Connecting to: 52.77.29.226:5003
+2025/02/21 08:56:04.349756 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:56:04.349802 Reconnecting in 30s
+2025/02/21 08:56:34.352131 Connecting to: 52.77.29.226:5003
+2025/02/21 08:56:34.463247 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:56:34.463324 Reconnecting in 30s
+2025/02/21 08:57:04.467709 Connecting to: 52.77.29.226:5003
+2025/02/21 08:57:04.580112 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:57:04.580208 Reconnecting in 30s
+2025/02/21 08:57:34.581360 Connecting to: 52.77.29.226:5003
+2025/02/21 08:57:34.711079 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:57:34.711127 Reconnecting in 30s
+2025/02/21 08:58:04.712350 Connecting to: 52.77.29.226:5003
+2025/02/21 08:58:04.822951 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:58:04.822994 Reconnecting in 30s
+2025/02/21 08:58:34.824291 Connecting to: 52.77.29.226:5003
+2025/02/21 08:58:34.930385 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:58:34.930413 Reconnecting in 30s
+2025/02/21 08:59:04.932240 Connecting to: 52.77.29.226:5003
+2025/02/21 08:59:05.044289 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:59:05.044328 Reconnecting in 30s
+2025/02/21 08:59:35.045463 Connecting to: 52.77.29.226:5003
+2025/02/21 08:59:35.151338 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 08:59:35.151397 Reconnecting in 30s
+2025/02/21 09:00:05.152395 Connecting to: 52.77.29.226:5003
+2025/02/21 09:00:05.260527 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:00:05.260564 Reconnecting in 30s
+2025/02/21 09:00:35.261565 Connecting to: 52.77.29.226:5003
+2025/02/21 09:00:35.393702 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:00:35.393745 Reconnecting in 30s
+2025/02/21 09:01:05.394821 Connecting to: 52.77.29.226:5003
+2025/02/21 09:01:05.510299 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:01:05.510334 Reconnecting in 30s
+2025/02/21 09:01:35.511586 Connecting to: 52.77.29.226:5003
+2025/02/21 09:01:35.627277 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:01:35.627390 Reconnecting in 30s
+2025/02/21 09:02:05.628729 Connecting to: 52.77.29.226:5003
+2025/02/21 09:02:05.748233 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:02:05.748392 Reconnecting in 30s
+2025/02/21 09:02:35.749539 Connecting to: 52.77.29.226:5003
+2025/02/21 09:02:35.859408 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:02:35.859500 Reconnecting in 30s
+2025/02/21 09:03:05.860458 Connecting to: 52.77.29.226:5003
+2025/02/21 09:03:05.967247 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:03:05.967289 Reconnecting in 30s
+2025/02/21 09:03:35.968508 Connecting to: 52.77.29.226:5003
+2025/02/21 09:03:36.084089 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:03:36.084215 Reconnecting in 30s
+2025/02/21 09:04:06.085515 Connecting to: 52.77.29.226:5003
+2025/02/21 09:04:06.197349 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:04:06.197434 Reconnecting in 30s
+2025/02/21 09:04:36.198610 Connecting to: 52.77.29.226:5003
+2025/02/21 09:04:36.305341 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:04:36.305558 Reconnecting in 30s
+2025/02/21 09:05:06.308150 Connecting to: 52.77.29.226:5003
+2025/02/21 09:05:06.426584 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:05:06.426693 Reconnecting in 30s
+2025/02/21 09:05:36.427946 Connecting to: 52.77.29.226:5003
+2025/02/21 09:05:36.538972 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:05:36.539091 Reconnecting in 30s
+2025/02/21 09:06:06.539551 Connecting to: 52.77.29.226:5003
+2025/02/21 09:06:06.654489 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:06:06.654605 Reconnecting in 30s
+2025/02/21 09:06:36.655632 Connecting to: 52.77.29.226:5003
+2025/02/21 09:06:36.758986 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:06:36.759019 Reconnecting in 30s
+2025/02/21 09:07:06.760145 Connecting to: 52.77.29.226:5003
+2025/02/21 09:07:06.867828 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:07:06.868129 Reconnecting in 30s
+2025/02/21 09:07:36.869473 Connecting to: 52.77.29.226:5003
+2025/02/21 09:07:37.010142 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:07:37.010202 Reconnecting in 30s
+2025/02/21 09:08:07.010850 Connecting to: 52.77.29.226:5003
+2025/02/21 09:08:07.127307 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:08:07.127433 Reconnecting in 30s
+2025/02/21 09:08:37.128645 Connecting to: 52.77.29.226:5003
+2025/02/21 09:08:37.240889 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:08:37.240989 Reconnecting in 30s
+2025/02/21 09:09:07.242069 Connecting to: 52.77.29.226:5003
+2025/02/21 09:09:07.374099 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:09:07.374162 Reconnecting in 30s
+2025/02/21 09:09:37.375502 Connecting to: 52.77.29.226:5003
+2025/02/21 09:09:37.495008 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:09:37.495099 Reconnecting in 30s
+2025/02/21 09:10:07.496478 Connecting to: 52.77.29.226:5003
+2025/02/21 09:10:07.596259 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:10:07.596314 Reconnecting in 30s
+2025/02/21 09:10:37.597351 Connecting to: 52.77.29.226:5003
+2025/02/21 09:10:37.709514 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:10:37.709552 Reconnecting in 30s
+2025/02/21 09:11:07.719619 Connecting to: 52.77.29.226:5003
+2025/02/21 09:11:07.842419 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:11:07.842525 Reconnecting in 30s
+2025/02/21 09:11:37.853524 Connecting to: 52.77.29.226:5003
+2025/02/21 09:11:37.974910 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:11:37.975502 Reconnecting in 30s
+2025/02/21 09:12:07.977870 Connecting to: 52.77.29.226:5003
+2025/02/21 09:12:08.082772 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:12:08.082823 Reconnecting in 30s
+2025/02/21 09:12:38.088280 Connecting to: 52.77.29.226:5003
+2025/02/21 09:12:38.209737 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:12:38.209770 Reconnecting in 30s
+2025/02/21 09:13:08.212198 Connecting to: 52.77.29.226:5003
+2025/02/21 09:13:08.328586 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:13:08.328623 Reconnecting in 30s
+2025/02/21 09:13:38.331156 Connecting to: 52.77.29.226:5003
+2025/02/21 09:13:38.453640 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:13:38.453712 Reconnecting in 30s
+2025/02/21 09:14:08.455299 Connecting to: 52.77.29.226:5003
+2025/02/21 09:14:08.569851 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:14:08.569969 Reconnecting in 30s
+2025/02/21 09:14:38.574735 Connecting to: 52.77.29.226:5003
+2025/02/21 09:14:38.701577 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:14:38.702347 Reconnecting in 30s
+2025/02/21 09:15:08.703585 Connecting to: 52.77.29.226:5003
+2025/02/21 09:15:08.819565 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:15:08.819625 Reconnecting in 30s
+2025/02/21 09:15:38.821126 Connecting to: 52.77.29.226:5003
+2025/02/21 09:15:38.940247 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:15:38.940594 Reconnecting in 30s
+2025/02/21 09:16:08.941781 Connecting to: 52.77.29.226:5003
+2025/02/21 09:16:09.065753 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:16:09.065828 Reconnecting in 30s
+2025/02/21 09:16:39.067211 Connecting to: 52.77.29.226:5003
+2025/02/21 09:16:39.181259 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:16:39.181329 Reconnecting in 30s
+2025/02/21 09:17:09.188347 Connecting to: 52.77.29.226:5003
+2025/02/21 09:17:09.316273 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:17:09.316343 Reconnecting in 30s
+2025/02/21 09:17:39.317670 Connecting to: 52.77.29.226:5003
+2025/02/21 09:17:39.433045 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:17:39.433167 Reconnecting in 30s
+2025/02/21 09:18:09.434377 Connecting to: 52.77.29.226:5003
+2025/02/21 09:18:09.542661 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:18:09.542736 Reconnecting in 30s
+2025/02/21 09:18:39.544047 Connecting to: 52.77.29.226:5003
+2025/02/21 09:18:39.677202 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:18:39.677284 Reconnecting in 30s
+2025/02/21 09:19:09.678521 Connecting to: 52.77.29.226:5003
+2025/02/21 09:19:09.796966 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:19:09.797075 Reconnecting in 30s
+2025/02/21 09:19:39.798579 Connecting to: 52.77.29.226:5003
+2025/02/21 09:19:39.916709 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/21 09:19:39.916850 Reconnecting in 30s
+2025/02/21 09:19:59.176509 Created session
+2025/02/21 09:20:00.001194 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/21 09:20:00.405946 Sending logon request
+2025/02/21 09:20:00.477203 Received logon response
+2025/02/24 05:52:48.157396 Created session
+2025/02/24 05:52:49.001194 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/24 05:52:49.418240 Sending logon request
+2025/02/24 05:52:49.475973 Received logon response
+2025/02/24 05:53:51.962634 Created session
+2025/02/24 05:53:52.001058 Connecting to: 52.77.29.226:5003
+2025/02/24 05:53:52.521004 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/24 05:53:52.521077 Reconnecting in 30s
+2025/02/24 05:55:40.774210 Created session
+2025/02/24 05:55:41.001142 Connecting to: 52.77.29.226:5003
+2025/02/24 05:55:41.133971 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/24 05:55:41.134016 Reconnecting in 30s
+2025/02/24 05:56:11.134683 Connecting to: 52.77.29.226:5003
+2025/02/24 05:56:11.243578 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/24 05:56:11.243649 Reconnecting in 30s
+2025/02/24 05:56:40.886154 Created session
+2025/02/24 05:56:41.001153 Connecting to: 52.77.29.226:5003
+2025/02/24 05:56:41.155673 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/24 05:56:41.155717 Reconnecting in 30s
+2025/02/24 06:00:13.284922 Created session
+2025/02/24 06:00:14.001053 Connecting to: 52.77.29.226:5003
+2025/02/24 06:00:14.129819 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/24 06:00:14.129855 Reconnecting in 30s
+2025/02/24 06:00:26.073776 Created session
+2025/02/24 06:00:27.001142 Connecting to: 52.77.29.226:5003
+2025/02/24 06:00:27.121046 Sending logon request
+2025/02/24 06:00:27.182624 Received logon response
+2025/02/24 06:23:32.019744 Created session
+2025/02/24 06:23:33.001241 Connecting to: 52.77.29.226:5003
+2025/02/24 06:23:33.109353 Sending logon request
+2025/02/24 06:23:33.166556 Received logon response
+2025/02/24 08:07:40.382967 Created session
+2025/02/24 08:07:41.001185 Connecting to: 52.77.29.226:5003
+2025/02/24 08:07:41.133348 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/24 08:07:41.133400 Reconnecting in 30s
+2025/02/24 08:08:11.134634 Connecting to: 52.77.29.226:5003
+2025/02/24 08:08:11.250910 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/24 08:08:11.251033 Reconnecting in 30s
+2025/02/24 08:08:41.252342 Connecting to: 52.77.29.226:5003
+2025/02/24 08:08:41.363811 Failed handshake: tls: failed to verify certificate: x509: cannot validate certificate for 52.77.29.226 because it doesn't contain any IP SANs
+2025/02/24 08:08:41.363887 Reconnecting in 30s
+2025/02/24 08:08:45.132915 Created session
+2025/02/24 08:08:46.001143 Connecting to: 52.77.29.226:5003
+2025/02/24 08:08:46.104210 Sending logon request
+2025/02/24 08:08:46.162346 Received logon response
+2025/02/24 08:24:10.707888 Created session
+2025/02/24 08:24:11.001125 Connecting to: 52.77.29.226:5003
+2025/02/24 08:24:11.103404 Sending logon request
+2025/02/24 08:24:11.158942 Received logon response
+2025/02/24 08:25:39.476797 Created session
+2025/02/24 08:25:40.001219 Connecting to: 52.77.29.226:5003
+2025/02/24 08:25:40.107379 Sending logon request
+2025/02/24 08:25:40.165075 Received logon response
+2025/02/24 08:26:44.999846 Created session
+2025/02/24 08:26:46.001174 Connecting to: 52.77.29.226:5003
+2025/02/24 08:26:46.102461 Sending logon request
+2025/02/24 08:26:46.248058 Received logon response

@@ -1,0 +1,194 @@
+2025/02/17 04:03:56.862943 Created session
+2025/02/17 04:03:57.001191 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:03:57.178328 Sending logon request
+2025/02/17 04:04:02.231353 Disconnected
+2025/02/17 04:04:02.231664 Reconnecting in 30s
+2025/02/17 04:04:32.232962 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:04:32.341748 Sending logon request
+2025/02/17 04:04:37.388164 Disconnected
+2025/02/17 04:04:37.388443 Reconnecting in 30s
+2025/02/17 04:05:07.388074 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:05:07.495252 Sending logon request
+2025/02/17 04:05:12.542151 Disconnected
+2025/02/17 04:05:12.542522 Reconnecting in 30s
+2025/02/17 04:05:42.543519 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:05:42.711341 Sending logon request
+2025/02/17 04:05:47.759277 Disconnected
+2025/02/17 04:05:47.759776 Reconnecting in 30s
+2025/02/17 04:06:17.760274 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:06:17.871638 Sending logon request
+2025/02/17 04:06:22.925393 Disconnected
+2025/02/17 04:06:22.925821 Reconnecting in 30s
+2025/02/17 04:06:52.926383 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:06:53.034193 Sending logon request
+2025/02/17 04:06:58.150867 Disconnected
+2025/02/17 04:06:58.151196 Reconnecting in 30s
+2025/02/17 04:07:28.152376 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:07:28.308821 Sending logon request
+2025/02/17 04:07:33.354614 Disconnected
+2025/02/17 04:07:33.354731 Reconnecting in 30s
+2025/02/17 04:08:03.355298 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:08:03.463996 Sending logon request
+2025/02/17 04:08:08.511731 Disconnected
+2025/02/17 04:08:08.512126 Reconnecting in 30s
+2025/02/17 04:08:38.513402 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:08:38.622795 Sending logon request
+2025/02/17 04:08:43.727583 Disconnected
+2025/02/17 04:08:43.727894 Reconnecting in 30s
+2025/02/17 04:09:13.728243 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:09:13.891164 Sending logon request
+2025/02/17 04:09:18.952500 Disconnected
+2025/02/17 04:09:18.952813 Reconnecting in 30s
+2025/02/17 04:09:48.953260 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:09:49.067602 Sending logon request
+2025/02/17 04:09:54.179376 Disconnected
+2025/02/17 04:09:54.179793 Reconnecting in 30s
+2025/02/17 04:10:06.259789 Created session
+2025/02/17 04:10:07.001128 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:10:07.120653 Sending logon request
+2025/02/17 04:10:07.174379 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:10:07.16656=JPM58=Invalid Credentials10=134 while waiting for Logon
+2025/02/17 04:10:07.174473 Disconnected
+2025/02/17 04:10:07.174645 Reconnecting in 30s
+2025/02/17 04:10:37.175970 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:10:37.341761 Sending logon request
+2025/02/17 04:10:37.394197 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:10:37.38756=JPM58=Invalid Credentials10=142 while waiting for Logon
+2025/02/17 04:10:37.394242 Disconnected
+2025/02/17 04:10:37.394392 Reconnecting in 30s
+2025/02/17 04:11:07.395562 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:11:07.501997 Sending logon request
+2025/02/17 04:11:07.554211 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:11:07.54656=JPM58=Invalid Credentials10=137 while waiting for Logon
+2025/02/17 04:11:07.554236 Disconnected
+2025/02/17 04:11:07.554374 Reconnecting in 30s
+2025/02/17 04:11:37.555767 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:11:37.666324 Sending logon request
+2025/02/17 04:11:37.718716 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:11:37.71156=JPM58=Invalid Credentials10=134 while waiting for Logon
+2025/02/17 04:11:37.718757 Disconnected
+2025/02/17 04:11:37.718955 Reconnecting in 30s
+2025/02/17 04:12:07.720158 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:12:07.881489 Sending logon request
+2025/02/17 04:12:07.934354 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:12:07.92756=JPM58=Invalid Credentials10=141 while waiting for Logon
+2025/02/17 04:12:07.934373 Disconnected
+2025/02/17 04:12:07.934533 Reconnecting in 30s
+2025/02/17 04:12:15.892591 Created session
+2025/02/17 04:12:16.001176 Connecting to: 127.0.0.1:5002
+2025/02/17 04:12:16.002242 Sending logon request
+2025/02/17 04:12:16.104023 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:12:16.10256=JPM58=Invalid Credentials10=126 while waiting for Logon
+2025/02/17 04:12:16.104158 Disconnected
+2025/02/17 04:12:16.104313 Reconnecting in 30s
+2025/02/17 04:12:46.105581 Connecting to: 127.0.0.1:5002
+2025/02/17 04:12:46.106642 Sending logon request
+2025/02/17 04:12:46.206953 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:12:46.20556=JPM58=Invalid Credentials10=133 while waiting for Logon
+2025/02/17 04:12:46.207010 Disconnected
+2025/02/17 04:12:46.207124 Reconnecting in 30s
+2025/02/17 04:13:16.208387 Connecting to: 127.0.0.1:5002
+2025/02/17 04:13:16.209414 Sending logon request
+2025/02/17 04:13:16.308648 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:13:16.30756=JPM58=Invalid Credentials10=134 while waiting for Logon
+2025/02/17 04:13:16.308709 Disconnected
+2025/02/17 04:13:16.308850 Reconnecting in 30s
+2025/02/17 04:13:46.310059 Connecting to: 127.0.0.1:5002
+2025/02/17 04:13:46.311158 Sending logon request
+2025/02/17 04:13:46.412294 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:13:46.41156=JPM58=Invalid Credentials10=133 while waiting for Logon
+2025/02/17 04:13:46.412349 Disconnected
+2025/02/17 04:13:46.412490 Reconnecting in 30s
+2025/02/17 04:14:16.413726 Connecting to: 127.0.0.1:5002
+2025/02/17 04:14:16.414583 Sending logon request
+2025/02/17 04:14:16.515988 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:14:16.51456=JPM58=Invalid Credentials10=135 while waiting for Logon
+2025/02/17 04:14:16.516054 Disconnected
+2025/02/17 04:14:16.516188 Reconnecting in 30s
+2025/02/17 04:14:46.517396 Connecting to: 127.0.0.1:5002
+2025/02/17 04:14:46.519062 Sending logon request
+2025/02/17 04:14:46.619002 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:14:46.61856=JPM58=Invalid Credentials10=143 while waiting for Logon
+2025/02/17 04:14:46.619040 Disconnected
+2025/02/17 04:14:46.619129 Reconnecting in 30s
+2025/02/17 04:15:16.620344 Connecting to: 127.0.0.1:5002
+2025/02/17 04:15:16.621413 Sending logon request
+2025/02/17 04:15:16.724318 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:15:16.72356=JPM58=Invalid Credentials10=138 while waiting for Logon
+2025/02/17 04:15:16.724378 Disconnected
+2025/02/17 04:15:16.724512 Reconnecting in 30s
+2025/02/17 04:15:46.725716 Connecting to: 127.0.0.1:5002
+2025/02/17 04:15:46.726856 Sending logon request
+2025/02/17 04:15:46.828847 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:15:46.82756=JPM58=Invalid Credentials10=146 while waiting for Logon
+2025/02/17 04:15:46.828915 Disconnected
+2025/02/17 04:15:46.829033 Reconnecting in 30s
+2025/02/17 04:16:16.830282 Connecting to: 127.0.0.1:5002
+2025/02/17 04:16:16.831306 Sending logon request
+2025/02/17 04:16:16.933792 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:16:16.93256=JPM58=Invalid Credentials10=141 while waiting for Logon
+2025/02/17 04:16:16.933850 Disconnected
+2025/02/17 04:16:16.933992 Reconnecting in 30s
+2025/02/17 04:16:46.935192 Connecting to: 127.0.0.1:5002
+2025/02/17 04:16:46.936317 Sending logon request
+2025/02/17 04:16:47.035562 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:16:47.03556=JPM58=Invalid Credentials10=139 while waiting for Logon
+2025/02/17 04:16:47.035583 Disconnected
+2025/02/17 04:16:47.035675 Reconnecting in 30s
+2025/02/17 04:17:17.036855 Connecting to: 127.0.0.1:5002
+2025/02/17 04:17:17.037679 Sending logon request
+2025/02/17 04:17:17.141652 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:17:17.14056=JPM58=Invalid Credentials10=134 while waiting for Logon
+2025/02/17 04:17:17.141705 Disconnected
+2025/02/17 04:17:17.141842 Reconnecting in 30s
+2025/02/17 04:17:47.144022 Connecting to: 127.0.0.1:5002
+2025/02/17 04:17:47.145001 Sending logon request
+2025/02/17 04:17:47.248284 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:17:47.24656=JPM58=Invalid Credentials10=144 while waiting for Logon
+2025/02/17 04:17:47.248357 Disconnected
+2025/02/17 04:17:47.248480 Reconnecting in 30s
+2025/02/17 04:18:17.250672 Connecting to: 127.0.0.1:5002
+2025/02/17 04:18:17.251662 Sending logon request
+2025/02/17 04:18:17.354640 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:18:17.35356=JPM58=Invalid Credentials10=141 while waiting for Logon
+2025/02/17 04:18:17.354703 Disconnected
+2025/02/17 04:18:17.354836 Reconnecting in 30s
+2025/02/17 04:18:47.356173 Connecting to: 127.0.0.1:5002
+2025/02/17 04:18:47.357375 Sending logon request
+2025/02/17 04:18:47.457212 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:18:47.45656=JPM58=Invalid Credentials10=148 while waiting for Logon
+2025/02/17 04:18:47.457351 Disconnected
+2025/02/17 04:18:47.457584 Reconnecting in 30s
+2025/02/17 04:19:17.459015 Connecting to: 127.0.0.1:5002
+2025/02/17 04:19:17.460126 Sending logon request
+2025/02/17 04:19:17.571943 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:19:17.57056=JPM58=Invalid Credentials10=143 while waiting for Logon
+2025/02/17 04:19:17.572016 Disconnected
+2025/02/17 04:19:17.572135 Reconnecting in 30s
+2025/02/17 04:19:47.573445 Connecting to: 127.0.0.1:5002
+2025/02/17 04:19:47.574412 Sending logon request
+2025/02/17 04:19:47.673179 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:19:47.67256=JPM58=Invalid Credentials10=149 while waiting for Logon
+2025/02/17 04:19:47.673224 Disconnected
+2025/02/17 04:19:47.673440 Reconnecting in 30s
+2025/02/17 04:20:17.674734 Connecting to: 127.0.0.1:5002
+2025/02/17 04:20:17.675894 Sending logon request
+2025/02/17 04:20:17.780540 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:20:17.78056=JPM58=Invalid Credentials10=138 while waiting for Logon
+2025/02/17 04:20:17.780557 Disconnected
+2025/02/17 04:20:17.780591 Reconnecting in 30s
+2025/02/17 04:20:47.781709 Connecting to: 127.0.0.1:5002
+2025/02/17 04:20:47.783561 Sending logon request
+2025/02/17 04:20:47.884043 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:20:47.88356=JPM58=Invalid Credentials10=145 while waiting for Logon
+2025/02/17 04:20:47.884106 Disconnected
+2025/02/17 04:20:47.884198 Reconnecting in 30s
+2025/02/17 04:21:17.885492 Connecting to: 127.0.0.1:5002
+2025/02/17 04:21:17.886258 Sending logon request
+2025/02/17 04:21:17.985748 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:21:17.98456=JPM58=Invalid Credentials10=145 while waiting for Logon
+2025/02/17 04:21:17.985797 Disconnected
+2025/02/17 04:21:17.985872 Reconnecting in 30s
+2025/02/17 04:21:47.987355 Connecting to: 127.0.0.1:5002
+2025/02/17 04:21:47.989383 Sending logon request
+2025/02/17 04:21:48.098670 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:21:48.09756=JPM58=Invalid Credentials10=144 while waiting for Logon
+2025/02/17 04:21:48.098775 Disconnected
+2025/02/17 04:21:48.098913 Reconnecting in 30s
+2025/02/17 04:22:18.100188 Connecting to: 127.0.0.1:5002
+2025/02/17 04:22:18.101888 Sending logon request
+2025/02/17 04:22:18.205876 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:22:18.20456=JPM58=Invalid Credentials10=132 while waiting for Logon
+2025/02/17 04:22:18.205996 Disconnected
+2025/02/17 04:22:18.206091 Reconnecting in 30s
+2025/02/17 04:22:48.207363 Connecting to: 127.0.0.1:5002
+2025/02/17 04:22:48.208270 Sending logon request
+2025/02/17 04:22:48.313785 Invalid Session State: Received Msg 8=FIX.4.49=7535=534=149=AMSTEL52=20250217-04:22:48.31256=JPM58=Invalid Credentials10=135 while waiting for Logon
+2025/02/17 04:22:48.313860 Disconnected
+2025/02/17 04:22:48.313973 Reconnecting in 30s
+2025/02/17 04:23:06.975881 Created session
+2025/02/17 04:23:07.000696 Connecting to: 127.0.0.1:5002
+2025/02/17 04:23:07.001490 Sending logon request
+2025/02/17 04:23:07.109164 Received logon response
+2025/02/17 04:23:40.632213 Created session
+2025/02/17 04:23:41.001118 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/17 04:23:41.236159 Sending logon request
+2025/02/17 04:23:41.291699 Received logon response
+2025/02/20 03:17:02.432304 Created session
+2025/02/20 03:17:03.001202 Connecting to: fix.test.amstelsecurities.com:5003
+2025/02/20 03:17:03.390496 Sending logon request
+2025/02/20 03:17:03.446234 Received logon response
