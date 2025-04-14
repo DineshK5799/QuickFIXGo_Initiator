@@ -18,8 +18,6 @@ package internal
 import (
 	"bufio"
 	"fmt"
-	"math/rand"
-	"time"
 
 	"github.com/quickfixgo/enum"
 	"github.com/quickfixgo/field"
@@ -215,7 +213,7 @@ func queryHeader(h header) {
 }
 
 func queryMarketDataRequest44() fix44mdr.MarketDataRequest {
-	request := fix44mdr.New(field.NewMDReqID("MARKETDATAID"),
+	request := fix44mdr.New(field.NewMDReqID("507163706"),
 		field.NewSubscriptionRequestType(enum.SubscriptionRequestType_SNAPSHOT),
 		field.NewMarketDepth(0),
 	)
@@ -232,56 +230,14 @@ func queryMarketDataRequest44() fix44mdr.MarketDataRequest {
 	request.SetSubscriptionRequestType(enum.SubscriptionRequestType_SNAPSHOT_PLUS_UPDATES)
 	// request.SetSubscriptionRequestType(enum.SubscriptionRequestType_DISABLE_PREVIOUS_SNAPSHOT_PLUS_UPDATE_REQUEST)
 	relatedSym := fix44mdr.NewNoRelatedSymRepeatingGroup()
-	isins := []string{"SGXF48097749",
-		"SG6PE4000001",
-		"SG6TC3000008",
-		"SG7BB1000008",
-		"CH0482172324",
-		"XS2357239057",
-		"XS1679216801",
-		"US251525AX97",
-		"USF1067PAB25",
-		"XS2351242461",
-		"XS2201954067",
-		"XS1513776374",
-		"USG9T27HAA24",
-		"NO0011128316",
-		"FR0011606169",
-		"XS2348280962",
-		"US03938LBC72",
-		"XS1410341389",
-		"XS2627125672",
-		"XS2611617700",
-		"XS2611617619",
-		"US86562MDG24",
-		"USY72570AL17",
-		"US44891CCZ41",
-		"XS2787854673",
-		"XS2502879096",
-		"XS2022434364",
-		"XS2775732451",
-		"XS2775699577",
-		"XS2774954577",
-		"USY4841M6A22",
-		"USY3815NBH36",
-		"US96122QAC78",
-		"HK0000963279",
-		"US91282CHP95",
-		"US912810TP30",
-		"US912828UN88",
-		"US912796YM59",
-		"US91282CGT27",
-		"XS2690013052",
-		"US302154DZ91",
-		"USQ82780AG49",
-		"XS2675743160",
-		"USJ54675BC69",
-		"SGXF24733614"}
-	rand.Seed(time.Now().Unix())
-	symbol := isins[rand.Intn(len(isins))]
-	fmt.Println(`Fetching market data for isin------------------> `, symbol)
-	// relatedSym.Add().SetSymbol(symbol)
-	relatedSym.Add().SetSymbol("US00084EAE86")
+
+	isins := []string{"US00084EAE86", "XS2361426558", "XS2436799238", "US00131MAB90", "XS2406805213", "US056752AG38"}
+
+	for _, symbol := range isins {
+		fmt.Println(`Adding isin for market data------------------> `, symbol)
+		relatedSym.Add().SetSymbol(symbol)
+	}
+
 	request.SetNoRelatedSym(relatedSym)
 	queryHeader(request.Header)
 	return request
